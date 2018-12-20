@@ -1,46 +1,46 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mayank Jhamtani
+    tagline: Undergrad
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: mayankjhamtani26@gmail.com
+    phone:
+    website:  #do not add http://
+    linkedin: mayank-jhamtani
+    github: MayankJhamtani
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-        
+      - idiom:
+        level:
+
     interests:
-      - item: Climbing
+      - item: Chess
+        link: https://lichess.org/@/Mayank_jh
+
+      - item:
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
@@ -55,9 +55,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Dual Major :  MSc. Mathematics and B.E Electrical and Electronics Engineering
+      university: Birla Institute of Technology and Science, K.K Birla Goa Campus
+      time: 2015 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,7 +66,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -79,7 +79,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -97,7 +97,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
