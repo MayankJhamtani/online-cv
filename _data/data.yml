@@ -54,7 +54,7 @@ career-profile:
     #Second paragraph if required.
 
 education:
-    - degree: Dual Major- MSc. Mathematics and B.E Electrical and Electronics Engineering
+      degree: Dual Major- MSc. Mathematics and B.E Electrical and Electronics Engineering
       university: Birla Institute of Technology and Science, K.K Birla Goa Campus
       time: 2015 - 2020
       details: |
