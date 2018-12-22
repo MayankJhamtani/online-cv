@@ -50,6 +50,10 @@ projects:
       link: "#"
       tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
       title: Connect4
+    -
+      link: "https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html"
+      tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)"
+      title: Matlab
   intro: ""
   title: Projects
 publications:
