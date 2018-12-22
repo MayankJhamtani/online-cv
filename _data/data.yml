@@ -66,61 +66,42 @@ experiences:
         I worked under the guidance of professor [Parimal Parag]() in the Distributed Systems
         research group at ECE Department, IISc. The work involved using Coding Theory to analyse
         latency trade-offs in distributed storage frameworks, with a particular emphasis on Fountain
-        Codes.
+        Codes.[Code](https://github.com/orgs/ResearchRep/teams/age-information-6)
 
     - role: Data Analytics Intern
       time: May - July, 2017
       company: Adani Power, Tirora
       details: |
         The work involved developing a prediction mechanism for electricity prices in the
-        [Indian Energy Exchange](). The complete pipeline involved scraping online data, filtering noise,
+        [Indian Energy Exchange](https://www.iexindia.com/#?id=7&mid=0). The complete pipeline involved scraping online data, filtering noise,
         and making the final prediction system using Convolutional Nueral nets. Various architectures were
-        tested on multiple metrics.
+        tested on multiple metrics. [Code]() [Report]()
 
 projects:
     title: Projects
     intro: >
 
     assignments:
-      - title: Network Simultion
+      - title: Network Simulation
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Packet level network simulation done for indoor employee and resource monitoring system"
 
-      - title: DevStudio
+      - title: Connect4
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Universal Approximation Theorem for Nueral Nets
+        link: "https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example"
+        tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations" [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)
 
 publications:
-    title: Publications
+    title: Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Mathworks Live Script Challenge
+        authors: July, 2018
+        conference: Won the [third price](https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html) in the international student competition organised by Mathworks. [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)
 
 skills:
     title: Skills &amp; Proficiency
