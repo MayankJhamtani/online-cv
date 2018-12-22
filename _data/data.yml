@@ -1,54 +1,15 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
-sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Mayank Jhamtani
-    tagline: Undergrad
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: mayankjhamtani26@gmail.com
-    phone:
-    website: #do not add http://
-    linkedin: mayank-jhamtani
-    github: MayankJhamtani
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: Hindi
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-    interests:
-      - item: Chess
-        link: https://lichess.org/@/Mayank_jh
-
+---
 career-profile:
-    title: About
-    summary: |
+  summary: |
       Hello World ! My name is Mayank Jhamtani. My research interests lie broadly in the domain
       of Systems and Networks, with a focus on Distributed Computing. I am currently in the 4th
       year of my Undergrad at BITS Pilani, Goa, pursuing a dual major in Mathematics and Electronics
       Engineering. You can find my detailed CV [here]()
-
-
+  title: About
 education:
-    - degree: MSc Mathematics and B.E Electrical and Electronics
-      university: BITS Pilani, Goa.
-      time: 2015 - 2020
-      details: |
+  -
+    degree: "MSc Mathematics and B.E Electrical and Electronics"
+    details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -57,73 +18,94 @@ education:
 
           - Bullet point
           - Bullet point
-
+    time: "2015 - 2020"
+    university: "BITS Pilani, Goa."
 experiences:
-    - role: Summer Research Intern
-      time: May - July, 2018
-      company: Indian Institute of Science, Bangalore
-      details: |
+  -
+    company: "Indian Institute of Science, Bangalore"
+    details: |
         I worked under the guidance of professor [Parimal Parag]() in the Distributed Systems
         research group at ECE Department, IISc. The work involved using Coding Theory to analyse
         latency trade-offs in distributed storage frameworks, with a particular emphasis on Fountain
         Codes.[Code](https://github.com/orgs/ResearchRep/teams/age-information-6)
-
-    - role: Data Analytics Intern
-      time: May - July, 2017
-      company: Adani Power, Tirora
-      details: |
+    role: "Summer Research Intern"
+    time: "May - July, 2018"
+  -
+    company: "Adani Power, Tirora"
+    details: |
         The work involved developing a prediction mechanism for electricity prices in the
         [Indian Energy Exchange](https://www.iexindia.com/#?id=7&mid=0). The complete pipeline involved scraping online data, filtering noise,
         and making the final prediction system using Convolutional Nueral nets. Various architectures were
         tested on multiple metrics. [Code]() [Report]()
-
+    role: "Data Analytics Intern"
+    time: "May - July, 2017"
+footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
 projects:
-    title: Projects
-    intro: >
-
-    assignments:
-      - title: Network Simulation
-        link: "#hook"
-        tagline: "Packet level network simulation done for indoor employee and resource monitoring system"
-
-      - title: Connect4
-        link: "#"
-        tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
-
-      - title: Universal Approximation Theorem for Nueral Nets
-        link: https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example
-        tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations" [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)
-
+  assignments:
+    -
+      link: "#hook"
+      tagline: "Packet level network simulation done for indoor employee and resource monitoring system"
+      title: "Network Simulation"
+    -
+      link: "#"
+      tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
+      title: Connect4
+  intro: ""
+  title: Projects
 publications:
-    title: Awards
-    intro: |
-
-    papers:
-      - title: Mathworks Live Script Challenge
-        authors: July, 2018
-        conference: Won the [third price](https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html) in the international student competition organised by Mathworks. [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)
-
+  intro: ""
+  papers:
+    -
+      authors: "July, 2018"
+      conference: "Won the [third price](https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html) in the international student competition organised by Mathworks. [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)"
+      title: "Mathworks Live Script Challenge"
+  title: Awards
+sidebar:
+  about: false
+  avatar: profile.png
+  bitbucket: ~
+  codewars: ~
+  education: true
+  email: mayankjhamtani26@gmail.com
+  github: MayankJhamtani
+  gitlab: ~
+  goodreads: ~
+  interests:
+    -
+      item: Chess
+      link: "https://lichess.org/@/Mayank_jh"
+  languages:
+    -
+      idiom: Hindi
+      level: Native
+    -
+      idiom: English
+      level: Professional
+  linkedin: mayank-jhamtani
+  name: "Mayank Jhamtani"
+  phone: ~
+  stack-overflow: ~
+  tagline: Undergrad
+  twitter: ~
+  website: ~
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  title: "Skills & Proficiency"
+  toolset:
+    -
+      level: 98%
+      name: "Python & Django"
+    -
+      level: 98%
+      name: "Javascript & jQuery"
+    -
+      level: 98%
+      name: Angular
+    -
+      level: 95%
+      name: "HTML5 & CSS"
+    -
+      level: 85%
+      name: "Ruby on Rails"
+    -
+      level: 60%
+      name: "Sketch & Photoshop"
