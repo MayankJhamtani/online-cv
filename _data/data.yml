@@ -3,60 +3,62 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mayank Jhamtani
-    tagline: Undergrad
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mayankjhamtani26@gmail.com
-    phone:
-    website:  #do not add http://
-    linkedin: mayank-jhamtani
-    github: MayankJhamtani
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Hindi
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
-      - idiom:
-        level:
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Chess
-        link: https://lichess.org/@/Mayank_jh
-
-      - item:
+      - item: Climbing
         link:
 
-      - item:
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
         link:
 
 career-profile:
-    title: About
+    title: Career Profile
     summary: |
-      I am a 4th year undergrad at BITS Pilani, Goa. My research interests lie
-      in the broad domain of Systems and Networks, with a focus on Distributed
-      Computing Systems. I also have worked extensively on using Coding Theory
-      Techniques to optimize trade-offs in Distributed Systems.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
 
-    #Second paragraph if required.
+      Second paragraph if required.
 
 education:
-      degree: Dual Major- MSc. Mathematics and B.E Electrical and Electronics Engineering
-      university: Birla Institute of Technology and Science, K.K Birla Goa Campus
-      time: 2015 - 2020
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,14 +69,29 @@ education:
           - Bullet point
           - Bullet point
 
-    experiences:
-    - role: Summer Research Intern
-      time: May - August, 2018
-      company: Indian Institute of Science
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        I worked under the guidance of <a href="https://www.google.com/search?q=professor" target="_blank" rel="nofollow">Professor</a>.
-        ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat
-        massa quis
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
