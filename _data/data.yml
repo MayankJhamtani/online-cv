@@ -40,7 +40,7 @@ experiences:
     role: "Instructor, Introduction to Programming"
     time: "August - December, 2017"
   -
-    company: "Adani Power, Tirora"
+    company: "Adani Power, Nagpur"
     details: |
         The work involved developing a prediction mechanism for electricity prices in the
         [Indian Energy Exchange](https://www.iexindia.com/#?id=7&mid=0). The complete pipeline involved scraping online data, filtering noise,
@@ -70,7 +70,7 @@ publications:
   papers:
     -
       authors: "July, 2018"
-      conference: Won the [third price](https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html) in the international student competition organised by Mathworks. [Code.](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)
+      conference: "Won the [third price](https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html) in the international student competition organised by Mathworks. [Code.](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)"
       title: "Mathworks Live Script Challenge"
   title: Awards
 sidebar:
@@ -87,6 +87,9 @@ sidebar:
     -
       item: Chess
       link: "https://lichess.org/@/Mayank_jh"
+    -
+      item: "Science Fiction"
+      link: "#hook"
   languages:
     -
       idiom: Hindi
