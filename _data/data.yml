@@ -24,19 +24,28 @@ experiences:
   -
     company: "Indian Institute of Science, Bangalore"
     details: |
-        I worked under the guidance of professor [Parimal Parag]() in the Distributed Systems
-        research group at ECE Department, IISc. The work involved using Coding Theory to analyse
+        I worked under the guidance of professor [Parimal Parag](http://ece.iisc.ernet.in/~parimal/index.html) in the Distributed Systems
+        research group at ECE Department, IISc. The work involved using Coding Theory to analyze
         latency trade-offs in distributed storage frameworks, with a particular emphasis on Fountain
         Codes.[Code](https://github.com/orgs/ResearchRep/teams/age-information-6)
     role: "Summer Research Intern"
     time: "May - July, 2018"
+  -
+    company: "Centre for Technical Education, BITS Goa"
+    details: |
+        As part of a college wide initiative, taught programming basics to more than 100
+        first year undergrads. The responsibilities involved designing lectures, assigning
+        relevant reading material, conducting labs and exams to assess the learning outcomes.
+        [Repository.](https://github.com/bpgc-cte/python2017) [Certificate.](https://drive.google.com/file/d/1n4zeUvfrTsd84iSjIewrdp3CBPFmxO2N/view?usp=sharing)
+    role: "Instructor, Introduction to Programming"
+    time: "August - December, 2017"
   -
     company: "Adani Power, Tirora"
     details: |
         The work involved developing a prediction mechanism for electricity prices in the
         [Indian Energy Exchange](https://www.iexindia.com/#?id=7&mid=0). The complete pipeline involved scraping online data, filtering noise,
         and making the final prediction system using Convolutional Nueral nets. Various architectures were
-        tested on multiple metrics. [Code]() [Report]()
+        tested on multiple metrics. [Code.]() [Report.]() [Presentation.]()
     role: "Data Analytics Intern"
     time: "May - July, 2017"
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
@@ -51,9 +60,9 @@ projects:
       tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
       title: Connect4
     -
-      link: "https://in.mathworks.com/academia/student-challenge/matlab-online-live-editor-challenge.html"
-      tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations [Code](https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example)"
-      title: Matlab
+      link: "https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example"
+      tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations"
+      title: "Universal Approximation Theorem for Neural Nets"
   intro: ""
   title: Projects
 publications:
