@@ -4,7 +4,7 @@ career-profile:
       Hello World ! My name is Mayank Jhamtani. My research interests lie broadly in the domain
       of Systems and Networks, with a focus on Distributed Computing. I am currently in the 4th
       year of my Undergrad at BITS Pilani, Goa, pursuing a dual major in Mathematics and Electronics
-      Engineering. You can find my detailed CV [here]()
+      Engineering.
   title: About
 education:
   -
@@ -45,20 +45,16 @@ experiences:
         The work involved developing a prediction mechanism for electricity prices in the
         [Indian Energy Exchange](https://www.iexindia.com/#?id=7&mid=0). The complete pipeline involved scraping online data, filtering noise,
         and making the final prediction system using Convolutional Nueral nets. Various architectures were
-        tested on multiple metrics. [Code.]() [Report.]() [Presentation.]()
+        tested on multiple metrics. [Code.](https://github.com/MayankJhamtani/IEX-MCP-Prediction) [Report.](https://github.com/MayankJhamtani/IEX-MCP-Prediction) [Presentation.](https://github.com/MayankJhamtani/IEX-MCP-Prediction)
     role: "Data Analytics Intern"
     time: "May - July, 2017"
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>\n"
 projects:
   assignments:
     -
-      link: "#hook"
+      link: "https://github.com/MayankJhamtani/Network-Simulation"
       tagline: "Packet level network simulation done for indoor employee and resource monitoring system"
       title: "Network Simulation"
-    -
-      link: "#"
-      tagline: "My implementation of the classic Connect4 game. Done in Java, to practice and implement concepts related to Object oriented programming"
-      title: Connect4
     -
       link: "https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example"
       tagline: "Implemented a visual proof of the Universal Approximation Theorem, done in Matlab with interactive graphical illustrations"
@@ -108,20 +104,17 @@ skills:
   title: "Skills & Proficiency"
   toolset:
     -
-      level: 0%
+      level: 80%
       name: Java
     -
-      level: 0%
+      level: 80%
       name: Python
     -
-      level: 0%
+      level: 80%
       name: C++
     -
-      level: 0%
+      level: 60%
       name: Matlab
     -
-      level: 0%
+      level: 60%
       name: "Network Simulation"
-    -
-      level: 0%
-      name: "Distributed Systems"
