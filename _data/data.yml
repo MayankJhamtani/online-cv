@@ -4,14 +4,14 @@ career-profile:
       Hello World ! My name is Mayank Jhamtani. My research interests lie broadly in the domain
       of Systems and Networks, with a focus on Distributed Computing. I am currently in the 4th
       year of my Undergrad at BITS Pilani, Goa, pursuing a dual major in Mathematics and Electronics
-      Engineering.
+      Engineering. You can find my detailed CV [here]()
   title: About
 education: 
   - 
     degree: "MSc Mathematics and B.E Electrical and Electronics"
     details: |
         Select Coursework-Data Communication Networks, Object Oriented Programming,
-                          Graph Theory, Discrete Mathematics, Algebra, Communication Networks.
+                          Graph Theory, Discrete Mathematics, Algebra, Communication Systems.
     time: "2015 - 2020"
     university: "BITS Pilani, Goa."
 experiences: 
@@ -68,11 +68,11 @@ publications:
       title: "Mathworks Live Script Challenge"
   title: Awards
 sidebar: 
-  about: true
+  about: false
   avatar: profile.png
   bitbucket: ~
   codewars: ~
-  education: true
+  education: false
   email: mayankjhamtani26@gmail.com
   github: MayankJhamtani
   gitlab: ~
