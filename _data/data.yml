@@ -2,21 +2,21 @@
 career-profile:
   summary: |
       Hello World! My name is Mayank Jhamtani. My research interests lie broadly in the domain
-      of Systems and Networks, with a focus on Distributed Computing. I am currently in the 4th
+      of Systems and Networks, Communication Systems and Coding Theory and Reinforcement Learning. I am currently in the 4th
       year of my Undergrad at BITS Pilani, Goa, pursuing a dual major in Mathematics and Electronics
-      Engineering. You can find my detailed CV [here](https://drive.google.com/file/d/1RKBp0sNj5MimxoGhsIKqg0rALe8beWNX/view?usp=sharing)
+      Engineering. You can find my detailed CV [here](https://drive.google.com/file/d/1AO66tESVjCNx5bVbae_pYwsdU3u6xTGM/view?usp=sharing)
   title: About
 education:
   -
     degree: "M.Sc Mathematics(Hons) and B.E. Electrical and Electronics(Hons)"
-    details: "Select Coursework-Object Oriented Programming, Statistical Inference, Discrete Mathematics Graphs Theory, Data Communication Networks, Signals and Systems, Control Systems Reinforcement Learning* [* = Online Course]"
+    details: "Select Coursework - Object Oriented Programming, Statistical Inference, Discrete Mathematics Graphs Theory, Data Communication Networks, Signals and Systems, Control Systems, *Reinforcement Learning [* = Online Course]"
     time: "2015 - 2020"
     university: "BITS Pilani, Goa."
 experiences:
   -
-    company: "Advisor : [Professor P V Kumar](https://ece.iisc.ac.in/~pvk/)"
-    details: "I am presently working on rate optimal streaming codes for real-time applications. I am responsible for implementing the high throughput encoding and decoding algorithms in C++, and integrating the code with an open-source application to benchmark the performance.\n"
-    role: "Undergraduate Thesis, Indian Institute of Science, Bangalore"
+    company: "Indian Institute of Science, Bangalore"
+    details: "I am presently working on rate optimal streaming codes for real-time applications, under the guidance of [professor P V Kumar](https://ece.iisc.ac.in/~pvk/) I am responsible for implementing the high throughput encoding and decoding algorithms in C++, and integrating the code with an open-source application to benchmark the performance.\n"
+    role: "Undergraduate Thesis"
     time: "August, 2019 - Present"
   -
     company: "Indian Institute of Science, Bangalore"
