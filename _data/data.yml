@@ -9,12 +9,15 @@ career-profile:
 education:
   -
     degree: "M.Sc Mathematics(Hons) and B.E. Electrical and Electronics(Hons)"
-    details: |
-        Select Coursework-Data Communication Networks, Object Oriented Programming,
-                          Graph Theory, Discrete Mathematics, Algebra, Communication Systems.
+    details: "Select Coursework-Object Oriented Programming, Statistical Inference, Discrete Mathematics Graphs Theory, Data Communication Networks, Signals and Systems, Control Systems Reinforcement Learning* [* = Online Course]"
     time: "2015 - 2020"
     university: "BITS Pilani, Goa."
 experiences:
+  -
+    company: "Advisor : [Professor P V Kumar](https://ece.iisc.ac.in/~pvk/)"
+    details: "I am presently working on rate optimal streaming codes for real-time applications. I am responsible for implementing the high throughput encoding and decoding algorithms in C++, and integrating the code with an open-source application to benchmark the performance.\n"
+    role: "Undergraduate Thesis, Indian Institute of Science, Bangalore"
+    time: "August, 2019 - Present"
   -
     company: "Indian Institute of Science, Bangalore"
     details: |
@@ -47,11 +50,11 @@ projects:
   assignments:
     -
       link: "#hook"
-      tagline: "Currently working to implement MAC Protocols in NS3 for performance benchmarking."
-      title: "MAC Protocol Implementation"
+      tagline: "Currently working on implementing various Reinforcement Learning based algorithms to play the board game Connect4"
+      title: "Connect4 - RL Engines"
     -
       link: "https://github.com/MayankJhamtani/Network-Simulation"
-      tagline: "Packet level network simulation done for indoor employee and resource monitoring system"
+      tagline: "Packet level network simulation done for indoor employee and resource monitoring system. Extended the NS3 Framework, which is a discrete event network simulator written in C++."
       title: "Network Simulation"
     -
       link: "https://in.mathworks.com/matlabcentral/fileexchange/68243-neural-networks-the-universality-theorem?focused=049d790e-74f6-4248-b77a-fbd0eca6af56&tab=example"
@@ -103,16 +106,13 @@ skills:
   toolset:
     -
       level: 80%
-      name: Java
+      name: C++
     -
-      level: 80%
+      level: 70%
       name: Python
     -
-      level: 80%
-      name: C++
+      level: 70%
+      name: Java
     -
       level: 60%
       name: Matlab
-    -
-      level: 60%
-      name: "Network Simulation"
