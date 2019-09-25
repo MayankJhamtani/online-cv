@@ -15,7 +15,7 @@ education:
 experiences:
   -
     company: "Indian Institute of Science, Bangalore"
-    details: "I am presently working on rate optimal streaming codes for real-time applications, under the guidance of [professor P V Kumar](https://ece.iisc.ac.in/~pvk/). I am responsible for implementing the high throughput encoding and decoding algorithms in C++, and integrating the code with an open-source application to benchmark the performance.\n"
+    details: "I am presently working on adaptive packet level FEC schemes for real-time applications, under the guidance of [professor P V Kumar](https://ece.iisc.ac.in/~pvk/). I am responsible for implementing the high throughput encoding and decoding algorithms in C++, and integrating the code with an open-source application to benchmark the performance.\n"
     role: "Undergraduate Thesis"
     time: "August, 2019 - Present"
   -
@@ -98,7 +98,7 @@ sidebar:
   name: "Mayank Jhamtani"
   phone: ~
   stack-overflow: ~
-  tagline: Undergrad, BITS Pilani Goa
+  tagline: "Undergrad, BITS Pilani Goa"
   twitter: ~
   website: ~
 skills:
